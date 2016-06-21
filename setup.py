@@ -14,7 +14,7 @@ setup(
     version=__version__,
     packages=find_packages(),
     include_package_data=True,
-    url='https://github.com/DrMartiner/django-yandex-kassa',
+    url='https://github.com/messteno/django-yandex-kassa',
     license='MIT',
     author=__author__,
     author_email='DrMartiner@GMail.Com',
